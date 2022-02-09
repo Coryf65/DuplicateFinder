@@ -10,6 +10,6 @@ Finds duplicates in words and sentences
 
 ## How to Run 
 
-Download the Latest from [here]()
+Download the Latest from [here](https://github.com/Coryf65/DuplicateFinder/releases/download/alpha/DuplicateFinder.exe)
 
 Also in Releases section
