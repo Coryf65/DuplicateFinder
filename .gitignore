@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/DuplicateFinder/v17
+/DuplicateFinder/bin/Debug
+/DuplicateFinder/obj/Debug
